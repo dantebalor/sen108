@@ -1,0 +1,115 @@
+.project{
+   height: 550px; 
+   width: 50%;
+   background-color:white;
+   margin-top: 5%;
+   margin-left:25%;
+   border-radius: 20px;
+}
+body{
+    background-color: lightgray;
+    
+}
+.fa-brands{
+    padding-left: 40%;
+    padding-top: 5%;
+    
+}
+.fa-solid{
+    margin-left: 5%;
+}
+ .button-1{
+    height: 5%;
+    background-color: white;
+
+ }
+ .sig{
+    background-color: white;
+    width: 50%;
+    border-radius: 30px;
+    border-width: 0.1px;
+    border-color: grey;
+     padding-left: 10px;
+    text-align: left;
+    margin-left:25%;
+ }
+ .sss{
+    background-color: white;
+    width: 50%;
+    border-radius: 30px;
+    border-width: 0.1px;
+    border-color: grey;
+
+    text-align: center;
+    margin-left:25%;
+    margin-top: 5%;
+    
+ }
+ hr{
+ margin-left: 25%;
+ margin-right: 25%;
+    margin-top: 5%;
+}
+
+
+h1{
+    margin-left: 25%;
+}
+
+.sis{
+    background-color: white;
+    width: 50%;
+    margin-top: 3%;
+    border-width: 0.1px;
+    border-color: grey;
+     padding-left: 10px;
+    text-align: left;
+    margin-left:25%;
+    color: gray;
+}
+.sit{
+    background-color: black;
+    width: 50%;
+    border-radius: 30px;
+    border-width: 0.1px;
+    border-color: grey;
+     padding-left: 10px;
+    text-align: center;
+    margin-left:25%;
+    color: white;
+    margin-top: 3%;
+    height: 7%;
+    padding-bottom: 40px;
+}
+   
+.sim{ background-color: white;
+    width: 50%;
+    border-radius: 30px;
+    border-width: 0.1px;
+    border-color: grey;
+     padding-left: 10px;
+    text-align: center;
+    margin-left:25%;
+    margin-top: 3%;
+    height: 7%;
+    padding-bottom: 40px;
+}
+
+.sip{ background-color: white;
+    width: 50%;
+
+    border-width: 0.1px;
+    border-color: grey;
+     padding-left: 10px;
+    text-align: center;
+    margin-left:25%;
+    margin-top: 3%;
+
+}
+h4{
+margin-left: 25%;
+}
+span{
+    color:skyblue;
+}
+  

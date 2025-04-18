@@ -1,0 +1,114 @@
+body{
+    margin: 0;
+    
+}
+.circle-container{
+    height: 300px;
+    width: 300px;
+    background-color: black;
+    border-radius: 150px;
+    text-align: center;
+    position: absolute;
+    top:150px;
+    box-shadow: 7px 7px 7px 7px rgb(51, 161, 230);
+   margin-bottom: 30%;
+}
+
+
+.project{
+    height: 600px;
+    width: 90%;
+    background-color: #272829;
+    margin-left: 9%;
+}
+.skill{
+    position: absolute;
+    bottom: 50px;
+    text-align: center;
+    margin: 0% 3%;
+}
+.skill-row{
+    
+    
+    width: 200px;
+    background-color: rgb(0, 162, 255); 
+    display: inline-block;
+    position: relative;
+    left: 60%;
+    margin-right: 20px;
+    border-radius: 20px;
+    
+    
+}
+.skill-row p{
+    
+    font-size: .7em;
+}
+.p-name{
+    background-color: blue;
+    color: white;
+    padding: 0px 3px;
+    display: inline-block;
+    
+}
+.p-info{
+    color: white;
+    padding:12% 20% 5% ;
+    width: 30%;
+    display: inline-block;
+    
+}
+.p-contract{
+    color: white;
+    padding: 5%  10%  10%;
+    width: 25%;
+    
+    
+}
+
+.p-contract p{
+    margin-top: 10px;
+    font-size: .1.2em;
+}
+.p-info h1{
+    font-size: .1.5em;
+
+}
+.p-info{
+    margin-top: 10px;
+    font-size: .8em;
+    display: inline-block;
+ }
+ .p-contract h1{
+    font-size: .1.2em;
+
+ }
+
+button{
+    margin-top: 20px;
+    background-color: black;
+    color: white;
+    border-style: none;
+    padding: 8px 10px;
+    font-size: .6em;
+    border-color: grey;
+    border-width: 1px;
+}
+.opaque-content{
+ display: inline-block;
+
+}
+.circle-container{   
+width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin: 0 auto;
+    border: 5px solid var(--primary-color);
+    
+    animation: float 3s ease-in-out infinite;}
+
+    .profile-img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;}
